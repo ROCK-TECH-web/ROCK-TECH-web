@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ROCK-TECH-web
 - 👀 I’m interested in web development, UI/UX design, eCommerce (Shopify), and creative digital solutions.
 - 🌱 I’m currently learning frontend frameworks like React and building clean, responsive user interfaces.
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on  beginner-friendly open-source projects and creative frontend web apps.
 - 📫 How to reach me is georgeabisola3@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:I turn ideas into pixel-perfect designs and love building brands from scratch!
